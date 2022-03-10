@@ -176,7 +176,7 @@ const App = ({ isServerInfo }) => {
 
 export const Logo = () => (
   <div style={{ display: "fix" }}>
-    < img height={73} weight={90} left={900} src={logo} alt="like" />
+    < img height={73} weight={90} left={900} src={logo} alt='like' />
   </div>
 );
 
